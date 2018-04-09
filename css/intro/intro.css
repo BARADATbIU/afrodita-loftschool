@@ -8,11 +8,13 @@
 }
 
 .intro__anim {
+  display: none;
   margin: auto;
   text-align: center;
 }
 
 .animated {
+  display: block;
   animation: bounceIn 1s;
 }
 
