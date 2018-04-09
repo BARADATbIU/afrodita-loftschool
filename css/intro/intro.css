@@ -7,9 +7,12 @@
   flex-grow: 1;
 }
 
-.intro__block {
+.intro__anim {
   margin: auto;
   text-align: center;
+}
+
+.animated {
   animation: bounceIn 1s;
 }
 
