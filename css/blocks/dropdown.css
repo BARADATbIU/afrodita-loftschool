@@ -8,10 +8,7 @@
   padding: 10px 15px;
   border-radius: 3px;
   box-shadow: 0 0 10px 0 rgba(23, 59, 117, 0.55);
-  line-height: 1.8;
-  letter-spacing: normal;
   background: rgb(255, 255, 255);
-  text-align: left;
   opacity: 0;
   transition: opacity .4s;
 }
@@ -44,6 +41,7 @@
 
 .contacts__drop-day {
   color: rgb(248, 149, 19);
+  margin-bottom: 10px;
 }
 
 .contacts__drop-time {

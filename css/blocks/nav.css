@@ -34,30 +34,30 @@
   transition: .3s;
 }
 
-.nav__link--main-icon::after {
+.nav__link--main::after {
   background-position: -30px -246px;
 }
 
-.nav__link--feed-icon::after {
+.nav__link--feed::after {
   background-position: -228px -30px;
 }
 
-.nav__link--service-icon::after {
+.nav__link--service::after {
   background-position: -269px -211px;
 }
 
-.nav__link--main-icon::before,
-.nav__link--active.nav__link--main-icon::after {
+.nav__link--main::before,
+.nav__link--active.nav__link--main::after {
   background-position: -109px -246px;
 }
 
-.nav__link--feed-icon::before,
-.nav__link--active.nav__link--feed-icon::after {
+.nav__link--feed::before,
+.nav__link--active.nav__link--feed::after {
   background-position: -30px -108px;
 }
 
-.nav__link--service-icon::before,
-.nav__link--active.nav__link--service-icon::after {
+.nav__link--service::before,
+.nav__link--active.nav__link--service::after {
   background-position: -348px -211px;
 }
 
